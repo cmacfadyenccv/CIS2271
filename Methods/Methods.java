@@ -1,5 +1,8 @@
-public class Methods.java
-public static void main(String[] args)
+public class Methods
 {
-  System.out.println("This is the main method");
+	public static void main(String[] args)
+	{
+		System.out.println("This is the main method");
+		System.out.println("Let's push it");
+	}
 }
