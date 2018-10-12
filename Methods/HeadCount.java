@@ -11,5 +11,6 @@ public class HeadCount {
 			System.out.print("Welcome, " + name + ".  ");
 			System.out.println("You are attendee " + counter);
 		}
+		scan.close();
 	}
 }
